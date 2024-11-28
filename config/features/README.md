@@ -45,7 +45,7 @@ func someExistingMethod(ctx context.Context) error {
     // Otherwise continue with the existing code path.
 }
 ``` 
-3. Add the flag to the end to end tests. This set of flags can also be found in shared/featureconfig/flags.go. 
+3. Add the flag to the end-to-end tests. This set of flags can also be found in shared/featureconfig/flags.go. 
 4. Test the functionality locally and safely in production. Once you have enough confidence that
 your new function works and is safe to release then move onto the next step.
 5. Move your existing flag to the deprecated section of `shared/featureconfig/flags.go`. It is
