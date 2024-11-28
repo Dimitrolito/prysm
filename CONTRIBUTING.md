@@ -15,7 +15,7 @@ You can explore our [Open Issues](https://github.com/prysmaticlabs/prysm/issues)
 
 **2. Fork the Prysm repo.**
 
-Sign in to your GitHub account or create a new account if you do not have one already. Then navigate your browser to https://github.com/prysmaticlabs/prysm/. In the upper right hand corner of the page, click “fork”. This will create a copy of the Prysm repo in your account.
+Sign in to your GitHub account or create a new account if you do not have one already. Then navigate your browser to https://github.com/prysmaticlabs/prysm/. In the upper right-hand corner of the page, click “fork”. This will create a copy of the Prysm repo in your account.
 
 **3. Create a local clone of Prysm.**
 
