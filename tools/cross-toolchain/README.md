@@ -2,7 +2,7 @@
 
 ## Toolchain suite
 
-This package declares a c++ toolchain suite with cross compilers for targeting five platforms:
+This package declares a c++ toolchain suite with cross-compilers for targeting five platforms:
 * linux_amd64
 * linux_arm64
 * osx_amd64
