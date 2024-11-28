@@ -29,7 +29,7 @@ This is a utility to help users perform Ethereum consensus specific commands.
 
 *State Transition Flags:*
    --block-path value              Path to block file(ssz)
-   --pre-state-patch value           Path to pre state file(ssz)
+   --pre-state-patch value           Path to pre-state file(ssz)
    --expected-post-state-path value  Path to expected post state file(ssz)
    --help, -h                     show help (default: false)
 
